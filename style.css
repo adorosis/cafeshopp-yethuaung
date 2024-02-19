@@ -116,3 +116,22 @@ color: hwb(285 28% 60%);
             transform-origin: right;
             transition: transform 1s;
         }
+        .message {
+            font-family: 'Salsa', cursive;
+            background: hwb(18 11% 11%);
+            width: 200px;
+            height: 40px;
+            border-radius: 7px;
+            line-height: 40px;
+            text-decoration: none;
+            margin: 20px auto; 
+            color: white;
+            border: none;
+
+        }
+        .boxs {
+            border-radius: 5px;
+            border: none;
+            line-height: 25px;
+            width: 200px;
+        }
